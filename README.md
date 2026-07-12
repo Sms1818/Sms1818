@@ -2,9 +2,9 @@
 
 ### 🚀 Backend Software Engineer | Java | Spring Boot | Microservices | AI Systems
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=900&height=100&lines=Building+Production-Grade+Backend+Systems;Event-Driven+%7C+Cloud-Native+%7C+AI-Powered;Microservices+Architect+%7C+System+Designer" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=900&height=100&lines=Building+Backend+Systems;Event-Driven+%7C+AI-Powered;Microservices+Architect+%7C" alt="Typing SVG" />
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=4000&pause=1000&color=00D9FF&center=true&vCenter=true&width=900&height=50&lines=🔥+Backend+Developer+at+Neopart+Transit;🎓+B.Tech+CSE+%7C+Vishwakarma+Institute+of+Technology;💻+Passionate+about+Distributed+Systems+%7C+AI+Engineering)](https://github.com/Sms1818)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=4000&pause=1000&color=00D9FF&center=true&vCenter=true&width=900&height=50&lines=🔥+🎓+B.Tech+CSE+%7C+Vishwakarma+Institute+of+Technology;💻+Passionate+about+Distributed+Systems+%7C+AI+Engineering)](https://github.com/Sms1818)
 
 ---
 
@@ -244,7 +244,6 @@ MySQL • Docker • REST APIs • Semantic Search • RAG
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-0080FF?style=for-the-badge&logo=digitalocean&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
-![Helm](https://img.shields.io/badge/Helm-0F1689?style=for-the-badge&logo=helm&logoColor=white)
 
 ### 🤖 AI & Machine Learning
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white)
@@ -396,7 +395,6 @@ I'm always excited to discuss backend engineering, system design, and innovative
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sahil-shitole)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Sms1818)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/sahilmshitole1483/)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/sahilmshitole)
 
 </div>
 
